@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="crypto_pay_api_cryptobot",
-    version="1.0.2",
+    version="1.0.3",
     author="sshlg",
     author_email="sshlg93@gmail.com",
     description="A Python library for interacting with Crypto Pay API by CryptoBot",
